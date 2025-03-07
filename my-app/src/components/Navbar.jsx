@@ -42,7 +42,7 @@ const Navbar = () => {
       backgroundColor: "rgb(255, 255, 255)",
     },
   };
-console.log('test')
+
   const listVariant = {
     closed: {
       x: "100vw",
